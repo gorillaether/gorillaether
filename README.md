@@ -23,8 +23,8 @@ An institutional-grade macroeconomic and fixed-income intelligence terminal.
 
 ### 📫 Connect With Me
 * **Live Terminal:** [gorillaether.com](https://gorillaether.com)
-* **LinkedIn:** [Insert Link to your LinkedIn]
-* **Email:** [Insert Your Email]
+* **LinkedIn:** https://www.linkedin.com/in/greggbalderramacfa/
+* **Email:** info@gorillaether.com
 
 ---
 📊 *198+ contributions in the last year. Always building.*
