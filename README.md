@@ -11,18 +11,84 @@ An institutional-grade macroeconomic and fixed-income intelligence terminal.
 * **Engine:** Custom macro physics engine calculating 2nd-derivative acceleration on US Treasuries and global capital flows.
 
 ### ⛓️ Web3 & MVPs
-* **[Insert DApp Name 1]:** [1-sentence description, e.g., Decentralized yield aggregator built with Solidity and React.]
-* **[Insert DApp Name 2]:** [1-sentence description]
-* *(See my pinned repositories below for live code and contracts).*
+
+Polygon
+EVM · Solidity
+5
+01
+⚡
+Stoic Quest
+Philosophical exploration and stoic practices on-chain.
+GitHub
+02
+∞
+Ergo City
+Ergodicity and risk simulation for on-chain modeling.
+GitHub
+03
+🔐
+Identity DApp
+Decentralized identity with soulbound NFT membership tokens.
+GitHub
+04
+🌉
+FoodBridge
+Connecting food suppliers with charities on Polygon.
+Frontend
+Backend
+05
+🪙
+Token Deployer
+Open-source ERC-20 token deployment tool.
+GitHub
+Solana
+Rust · Programs
+2
+01
+💸
+Solana Tip Jar
+Chrome extension for SOL micro-tips on devnet.
+GitHub
+02
+🏝️
+Vacation Rental Tokenization
+Fractional ownership of vacation properties on Solana.
+GitHub
+AI Agents
+LLM · Automation
+4
+01
+🤖
+Eddie AI
+Rule-based agents with Gemini AI for racing analysis.
+GitHub
+02
+📡
+CryptoScan
+Cross-platform crypto analysis app built with Capacitor.
+Frontend
+Backend
+03
+📊
+Kalshi Radar
+Real-time prediction market bid-ask spread scanner.
+GitHub
+04
+🏗️
+DApp Studio
+Automated DApp boilerplate kit for GitHub Codespaces.
+GitHub
+BurnerPayBot
+Autmoated bot that creates crypto wallets for users in Telegram Bot infra
 
 ### 🛠️ Technical Arsenal
-* **Frontend:** React, JavaScript, HTML/CSS, Plotly/Data Visualization
+* **Frontend:** React, Next.js, JavaScript, HTML/CSS, Plotly/Data Visualization
 * **Backend:** Python, FastAPI, API Architecture
 * **Cloud & Systems:** Google Cloud Platform (GCP), Cloud Run, Linux CLI, Git
-* **Web3:** Smart Contracts, Decentralized Application (DApp) Architecture
+* **Web3:** Smart Contracts, Decentralized Application (DApp) Architecture, Hardhat
 
 ### 📫 Connect With Me
-* **Live Terminal:** [gorillaether.com](https://gorillaether.com)
+* **Live Terminal:** [gorillaether.com/dashboard](https://gorillaether.com)
 * **LinkedIn:** https://www.linkedin.com/in/greggbalderramacfa/
 * **Email:** info@gorillaether.com
 
